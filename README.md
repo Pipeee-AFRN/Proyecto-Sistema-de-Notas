@@ -2,7 +2,10 @@
 
 # Overview
 
-    --Este proyecto consiste en crear una aplicación en Java que gestione las notas de un grupo de estudiantes, utilizando estructuras de control, arrays y matrices. La aplicación permite registrar estudiantes con sus códigos identificadores y las notas de tres materias, generando un reporte con el promedio de cada estudiante y su estado de aprobación. Además, se aplican principios básicos de validación y flujo de control.
+    Este proyecto consiste en crear una aplicación en Java que gestione las notas de un grupo de estudiantes, 
+    utilizando estructuras de control, arrays y matrices. La aplicación permite registrar estudiantes con sus 
+    códigos identificadores y las notas de tres materias, generando un reporte con el promedio de cada estudiante 
+    y su estado de aprobación. Además, se aplican principios básicos de validación y flujo de control.
 
 ---
 

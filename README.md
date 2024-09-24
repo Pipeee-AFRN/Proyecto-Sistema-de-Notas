@@ -1,14 +1,15 @@
 # Proyecto-Sistema-de-Notas
 
-# Autores
-
-- Andres Felipe Rincon Naranjo 192383
-- Adrian Ortega
-
 # Overview
+
     Este proyecto consiste en crear una aplicación en Java que gestione las notas de un grupo de estudiantes, utilizando estructuras de control, arrays y matrices. La aplicación permite registrar estudiantes con sus códigos identificadores y las notas de tres materias, generando un reporte con el promedio de cada estudiante y su estado de aprobación. Además, se aplican principios básicos de validación y flujo de control.
 
 ---
+
+# Autores
+
+- Andres Felipe Rincon Naranjo 192383
+- Adrian Ortega 192422
 
 # Objetivos
     - Principios básicos del SDLC
@@ -32,7 +33,7 @@
 
     - El sistema suma las notas de las tres materias y calcula el promedio.
 
-3.Determinación del Estado
+3. Determinación del Estado
 
     - Si el promedio es mayor o igual a 3.0, el estudiante aprueba; de lo contrario, reprueba.
 
@@ -46,6 +47,6 @@ ciclo de vida del desarrollo de software (SDLC):
 2. Diseño:
     - Se definen constantes para los límites de las notas, el número de materias y la lógica para el cálculo de promedios.
 3. Implementación:
-    - El código está organizado en métodos claros: uno para registrar estudiantes y otro para generar el reporte final.
+    - Se desarrolla el código en Java, utilizando las estructuras de control, arrays y matrices. El código está organizado en métodos claros: uno para registrar estudiantes y otro para generar el reporte final.
 4. Pruebas:
     - Se puede probar con diferentes cantidades de estudiantes y notas, validando que el sistema maneje entradas correctas e incorrectas.
